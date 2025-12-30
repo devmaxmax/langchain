@@ -1,0 +1,7 @@
+langchain-google-genai
+python-dotenv
+requests
+pywttr
+langchain-openai
+langchain-community
+langchain_core
